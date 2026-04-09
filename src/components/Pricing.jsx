@@ -9,7 +9,7 @@ const tiers = [
     description: "For individuals and new agents",
     features: [
       "1 inbox",
-      "100 emails/day",
+      "50 emails/day",
       "Basic AI sorting",
       "1GB storage",
       "@windymail.ai address",
@@ -24,10 +24,10 @@ const tiers = [
     period: "/month",
     description: "For power users and busy agents",
     features: [
-      "Unlimited emails",
+      "500 emails/day",
       "Secretary Mode (Gmail/Outlook)",
-      "Custom domain support",
-      "25GB storage",
+      "Custom domain (SPF/DKIM/DMARC)",
+      "10GB storage",
       "Priority delivery",
       "Advanced AI triage",
       "Bot-to-bot communication",
@@ -42,14 +42,14 @@ const tiers = [
     period: "/user/month",
     description: "For teams deploying agent fleets",
     features: [
+      "5,000+ emails/day",
       "Unlimited inboxes",
       "Team management",
-      "Compliance tools",
-      "Developer tools access",
+      "GDPR data export",
       "Custom retention policies",
-      "Dedicated support",
+      "100GB storage per user",
       "SSO & audit logs",
-      "Custom rate limits"
+      "Dedicated support"
     ],
     cta: "Contact Sales",
     highlighted: false

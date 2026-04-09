@@ -18,9 +18,9 @@ const features = [
     description: "Your agent sends from its own @windymail.ai address, as itself. Vendor inquiries, automated reports, bot-to-bot communication — all on its own identity."
   },
   {
-    icon: "👤",
-    title: "Humans Welcome",
-    description: "Not just for AI agents. A clean, fast, modern email experience for real people who want AI-native email that actually understands the future."
+    icon: "🎤",
+    title: "Voice Compose",
+    description: "Speak your emails instead of typing them. Powered by Windy Word's AI transcription — just talk and your message writes itself."
   },
   {
     icon: "⚡",
